@@ -15,4 +15,4 @@ document.getElementById("mobile").addEventListener("click", ()=> {
 function cls() {
     document.querySelector(".mobile-menu").classList.remove('active');
 }
-
+ 

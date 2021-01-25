@@ -1,2 +1,2 @@
 # JavohirProWeb
-This is is portfolio
+This is my portfolio
